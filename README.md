@@ -28,8 +28,9 @@ Para ejecutar este proyecto sin errores en Visual Studio Code, sigue estos pasos
 
 ### 1. Clonar el repositorio
 ```bash
-git clone [https://github.com/Grupo1-QAOA-UCN/QAOA-TSP-Quantum-Project](https://github.com/Grupo1-QAOA-UCN/QAOA-TSP-Quantum-Project)
+git clone https://github.com/Grupo1-QAOA-UCN/QAOA-TSP-Quantum-Project
 cd QAOA-TSP-Quantum-Project
+code .
 ```
 ### 2. Crear y activar un entorno virtual
 Es necesario aislar las librerías del proyecto.
