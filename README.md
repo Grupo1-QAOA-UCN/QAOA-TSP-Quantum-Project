@@ -34,6 +34,7 @@ code .
 ```
 ### 2. Crear y activar un entorno virtual
 Es necesario aislar las librerías del proyecto.
+> **Nota:** Abre una **nueva terminal**.
 
 En **Windows**:
 ```bash
